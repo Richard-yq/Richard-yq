@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Richard (`Richard-yq`) 👋
+# Salut, ça va? I'm Richard (`Richard-yq`) 👋
 
 <!-- 動態打字 -->
 <a href="https://git.io/typing-svg">
