@@ -43,10 +43,10 @@
 
 <div align="center">
 
-<!-- 遊戲成就解鎖勳章 -->
-<img src="https://github-profile-trophy.vercel.app/?username=Richard-yq&theme=flat&no-frame=true&no-bg=true&column=6" width="100%" />
+<!-- 修正後的成就勳章 -->
+<img src="https://github-profile-trophy-zeta.vercel.app/?username=Richard-yq&theme=onedark" width="100%" />
 
-<br/>
+<br/><br/>
 
 <!-- 蛇吃馬鈴薯 -->
 <picture>
@@ -56,3 +56,4 @@
 </picture>
 
 </div>
+
