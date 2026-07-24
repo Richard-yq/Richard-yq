@@ -2,7 +2,7 @@
 
 # Hi, I'm Richard (`Richard-yq`) 👋
 
-<!-- 極簡打字動畫 -->
+<!-- 動態打字 -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=5G+Open+Source;MAC+Layer+%26+PHY+Layer" alt="Typing SVG" />
 </a>
@@ -30,7 +30,7 @@
 ![5G NR](https://img.shields.io/badge/5G_NR-00599C?style=flat-square&logo=5g&logoColor=white)
 ![MAC Layer](https://img.shields.io/badge/MAC_Layer-00A8E8?style=flat-square&logo=transmission-tower&logoColor=white)
 ![PHY Layer](https://img.shields.io/badge/PHY_Layer-0077B6?style=flat-square&logo=antenna&logoColor=white)
-![3GPP](https://img.shields.io/badge/3GPP-023E8A?style=for-the-badge&logo=cellular&logoColor=white)
+![3GPP](https://img.shields.io/badge/3GPP-023E8A?style=flat-square&logo=cellular&logoColor=white)
 
 #### Languages & Systems
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -44,10 +44,14 @@
 
 ---
 
-### 📊 Activity
+### 🐍 🥔 Activity (Snake Eating Potatoes)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Richard-yq&theme=github-compact&hide_border=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
