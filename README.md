@@ -39,16 +39,16 @@
 
 ---
 
-### 🥔 Activity & Achievements
+### 🏙️ 🐍 Activity (3D Grid & Snake Animation)
 
 <div align="center">
 
-<!-- 修正後的成就勳章 -->
-<img src="https://github-profile-trophy-zeta.vercel.app/?username=Richard-yq&theme=onedark" width="100%" />
+<!-- 3D 城市立體網格 -->
+<img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Richard's 3D Contribution Grid" />
 
 <br/><br/>
 
-<!-- 蛇吃馬鈴薯 -->
+<!-- 經典正常綠色貪食蛇 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/github-contribution-grid-snake.svg">
@@ -56,4 +56,3 @@
 </picture>
 
 </div>
-
