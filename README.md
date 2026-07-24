@@ -48,13 +48,13 @@
 
 ---
 
-## 🧱 ⛏️ 1,012 Contributions in the Last Year (敲磚頭特效)
+## 🧱 🍄 1,012 Contributions in the Last Year (馬力歐敲磚頭特效)
 
 <div align="center">
 
-<!-- 像素礦工/工程師快速揮錘/揮鎬敲擊磚塊動圖 -->
+<!-- 像素 Super Mario 跳起來頂問號磚塊動圖 (儲存於本機 assets 載入極速) -->
 <p align="center">
-  <img src="./assets/miner-hammering.gif" width="100" alt="Pixel Miner Hammering Bricks" />
+  <img src="./assets/mario-hit-block.gif" width="120" alt="Super Mario Hitting Brick Block" />
 </p>
 
 <!-- 1,012 Contributions Streak 卡片 -->
@@ -63,7 +63,7 @@
 <br/><br/>
 
 <blockquote>
-  <b>🔨 "Code is built one brick at a time — 快速敲打一磚一瓦，累積 1,012+ Contributions 穩定系統！"</b>
+  <b>🍄 "Leveling up code brick by brick — 頂出 1,012+ Contributions，打造穩定 5G 系統！"</b>
 </blockquote>
 
 <br/>
