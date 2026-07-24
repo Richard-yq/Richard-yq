@@ -36,11 +36,16 @@
 
 <div align="center">
 
+### 📊 GitHub Overview Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Richard-yq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-yq&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+<br/>
+
 ### 👾 Space Invaders Commit Shooter
-
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Grid" />
-
-<br/><br/>
 
 <img src="./assets/space-shooter.gif" width="100%" alt="Space Invaders Contribution Shooter" />
 
