@@ -23,6 +23,9 @@
 ![MAC Layer](https://img.shields.io/badge/MAC_Layer-7928CA?style=for-the-badge&logo=transmission-tower&logoColor=white)
 ![PHY Layer](https://img.shields.io/badge/PHY_Layer-FF007F?style=for-the-badge&logo=antenna&logoColor=white)
 ![3GPP](https://img.shields.io/badge/3GPP-004088?style=for-the-badge&logo=cellular&logoColor=white)
+![O-RAN](https://img.shields.io/badge/O--RAN-FF6F00?style=for-the-badge&logo=rss&logoColor=white)
+![FAPI/nFAPI](https://img.shields.io/badge/FAPI--nFAPI-E65100?style=for-the-badge&logo=microchip&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### 💻 Languages & Systems
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
