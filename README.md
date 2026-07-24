@@ -26,21 +26,21 @@
 
 ### 🛠️ Tech Stack
 
-#### Wireless & Protocol
-![5G NR](https://img.shields.io/badge/5G_NR-00599C?style=flat-square&logo=5g&logoColor=white)
-![MAC Layer](https://img.shields.io/badge/MAC_Layer-00A8E8?style=flat-square&logo=transmission-tower&logoColor=white)
-![PHY Layer](https://img.shields.io/badge/PHY_Layer-0077B6?style=flat-square&logo=antenna&logoColor=white)
-![3GPP](https://img.shields.io/badge/3GPP-023E8A?style=flat-square&logo=cellular&logoColor=white)
+#### 📡 Wireless & Protocol
+![5G NR](https://img.shields.io/badge/5G_NR-00F0FF?style=for-the-badge&logo=5g&logoColor=black)
+![MAC Layer](https://img.shields.io/badge/MAC_Layer-7928CA?style=for-the-badge&logo=transmission-tower&logoColor=white)
+![PHY Layer](https://img.shields.io/badge/PHY_Layer-FF007F?style=for-the-badge&logo=antenna&logoColor=white)
+![3GPP](https://img.shields.io/badge/3GPP-004088?style=for-the-badge&logo=cellular&logoColor=white)
 
-#### Languages & Systems
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+#### 💻 Languages & Systems
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
