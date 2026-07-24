@@ -48,16 +48,16 @@
 
 ---
 
-## 🧱 👷‍♂️ 🔨 1,012 Contributions in the Last Year (Streak 特效)
+## 🧱 ⛏️ 1,012 Contributions in the Last Year (敲磚頭特效)
 
 <div align="center">
 
-<!-- 工程師快速拿槌子敲擊 1,012 Contributions Streak 卡片 -->
+<!-- 像素礦工/工程師快速揮錘/揮鎬敲擊磚塊動圖 -->
 <p align="center">
-  <img src="./assets/engineer-hammering.gif" width="160" alt="Engineer Hammering Contributions" />
+  <img src="./assets/miner-hammering.gif" width="100" alt="Pixel Miner Hammering Bricks" />
 </p>
 
-<!-- 1,012 Contributions Streak 卡片 (顯示年度 Contributions 與 Streak 戰績) -->
+<!-- 1,012 Contributions Streak 卡片 -->
 <img src="https://streak-stats.demolab.com?user=Richard-yq&theme=tokyonight&hide_border=true&border_radius=10" width="85%" alt="Contribution Streak" />
 
 <br/><br/>
