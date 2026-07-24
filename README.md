@@ -48,24 +48,7 @@
 
 ---
 
-## 👷‍♂️ 🧱 工程師敲磚頭特區 (Code Building in Progress)
-
-<div align="center">
-
-<!-- 本地託管像素工程師敲磚頭動圖 (儲存在專案內部，載入極速不卡頓) -->
-<p align="center">
-  <img src="./assets/engineer-hammering.gif" width="160" alt="Engineer Hammering Bricks" />
-</p>
-
-<blockquote>
-  <b>🔨 "Code is built one brick at a time — 一磚一瓦敲出高穩定度的 5G 通訊系統！"</b>
-</blockquote>
-
-</div>
-
----
-
-## 🧱 3D 磚塊城市 & 🐍 貪食蛇 Contribution 特效
+## 🧱 3D 磚塊城市 & 👷‍♂️ 工程師敲磚頭 Contribution 特效
 
 <div align="center">
 
@@ -74,8 +57,14 @@
 
 <br/><br/>
 
-### 🐍 Snake 吃綠磚動態圖
-<img src="./dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+### 👷‍♂️ 🔨 Code Building in Progress (工程師敲磚頭)
+<p align="center">
+  <img src="./assets/engineer-hammering.gif" width="160" alt="Engineer Hammering Bricks" />
+</p>
+
+<blockquote>
+  <b>🔨 "Code is built one brick at a time — 一磚一瓦敲出高穩定度的 5G 通訊系統！"</b>
+</blockquote>
 
 </div>
 
