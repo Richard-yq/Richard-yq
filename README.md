@@ -1,11 +1,10 @@
 <div align="center">
 
-# ⚡ Hi, I'm Richard (`Richard-yq`) 👋
-### 📡 5G NR / Open-RAN & Protocol System Engineer
+# Hi, I'm Richard (`Richard-yq`) 👋
 
-<!-- Dynamic Typing Header -->
+<!-- 動態打字 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=5G+NR+%26+Open-RAN+Protocol+Architect;MAC+Layer+%26+PHY+Layer+Developer;High-Performance+C%2B%2B+%2F+C+Systems;Building+Next-Gen+Wireless+Networks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=5G+Open+Source;MAC+Layer+%26+PHY+Layer" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -22,9 +21,9 @@
 
 ---
 
-### 🛠️ Tech Stack & Domain Expertise
+### 🛠️ Tech Stack
 
-#### 📡 Wireless & Protocol Architecture
+#### 📡 Wireless & Protocol
 ![5G NR](https://img.shields.io/badge/5G_NR-00F0FF?style=for-the-badge&logo=5g&logoColor=black)
 ![MAC Layer](https://img.shields.io/badge/MAC_Layer-7928CA?style=for-the-badge&logo=transmission-tower&logoColor=white)
 ![PHY Layer](https://img.shields.io/badge/PHY_Layer-FF007F?style=for-the-badge&logo=antenna&logoColor=white)
@@ -33,18 +32,15 @@
 ![FAPI/nFAPI](https://img.shields.io/badge/FAPI--nFAPI-E65100?style=for-the-badge&logo=microchip&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### 💻 Software Systems & Languages
+#### 💻 Languages & Systems
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### 🐳 Cloud, Infrastructure & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -60,10 +56,4 @@
 ### 🐍 Snake 吃綠磚動態圖
 <img src="./dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 
-</div>
-
----
-
-<div align="center">
-  <sub>⚡ Designed & Built with 💡 by <b>Richard</b> | Powered by 5G NR & C++ Systems</sub>
 </div>
