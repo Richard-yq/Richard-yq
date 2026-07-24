@@ -2,7 +2,7 @@
 
 # Salut, ça va? Je m'appelle Richard (`Richard-yq`) 👋
 
-<!-- GitHub Achievements Unlock -->
+
 <!-- 動態打字 -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=5G+Open+Source;MAC+Layer+%26+PHY+Layer" alt="Typing SVG" />
