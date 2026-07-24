@@ -32,4 +32,5 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "Update 3D Contribution Grid" || exit 0
+          git pull --rebase origin main
           git push
