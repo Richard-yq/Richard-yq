@@ -1,8 +1,7 @@
-name: Generate 3D Grid & Snake Animation
+name: Generate 3D Contribution Grid
 
 on:
   schedule:
-    # 每天半夜 00:00 自動刷新
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
@@ -14,38 +13,19 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      # 1. 產生 3D 城市立體網格圖 (Night View 暗色風格)
+      # 產生 3D 城市立體網格圖
       - name: Generate 3D Contribution Grid
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Richard-yq
 
-      # 2. 產生經典正常綠色貪食蛇動畫
-      - name: Generate Normal Green Snake SVG
-        uses: platane/snk/svg-only@v3
-        with:
-          github_user_name: Richard-yq
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # 3. 部署貪食蛇圖檔到 output 分支
-      - name: Deploy Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # 4. 提交 3D 城市圖到 main 分支
+      # 提交 3D 城市圖到 main 分支
       - name: Commit & Push 3D Grid SVG
         run: |
           git config user.name github-actions
