@@ -22,43 +22,29 @@
 
 ---
 
-## 🛠️ Tech Stack & Domain Expertise
+### 🛠️ Tech Stack & Domain Expertise
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">📡 5G & Protocol</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/5G_NR-00F0FF?style=for-the-badge&logo=5g&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/MAC_Layer-7928CA?style=for-the-badge&logo=transmission-tower&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/PHY_Layer-FF007F?style=for-the-badge&logo=antenna&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/3GPP-004088?style=for-the-badge&logo=cellular&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/O--RAN-FF6F00?style=for-the-badge&logo=rss&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/FAPI--nFAPI-E65100?style=for-the-badge&logo=microchip&logoColor=white" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">💻 Languages & Core</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🐳 Cloud & Analysis</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+#### 📡 Wireless & Protocol Architecture
+![5G NR](https://img.shields.io/badge/5G_NR-00F0FF?style=for-the-badge&logo=5g&logoColor=black)
+![MAC Layer](https://img.shields.io/badge/MAC_Layer-7928CA?style=for-the-badge&logo=transmission-tower&logoColor=white)
+![PHY Layer](https://img.shields.io/badge/PHY_Layer-FF007F?style=for-the-badge&logo=antenna&logoColor=white)
+![3GPP](https://img.shields.io/badge/3GPP-004088?style=for-the-badge&logo=cellular&logoColor=white)
+![O-RAN](https://img.shields.io/badge/O--RAN-FF6F00?style=for-the-badge&logo=rss&logoColor=white)
+![FAPI/nFAPI](https://img.shields.io/badge/FAPI--nFAPI-E65100?style=for-the-badge&logo=microchip&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### 💻 Software Systems & Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### 🐳 Cloud, Infrastructure & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
