@@ -16,11 +16,14 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
 
       - name: Generate Space Shooter GIF
         uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: Richard-yq
           output-path: 'dist/space-shooter.gif'
           strategy: 'random'
 

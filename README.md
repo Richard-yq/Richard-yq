@@ -38,8 +38,6 @@
 
 ### 👾 Space Invaders Commit Shooter
 
-<p><i>👾 Cannon blasting commit grid targets in arcade style</i></p>
-
 <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Grid" />
 
 <br/><br/>
