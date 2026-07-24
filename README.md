@@ -16,14 +16,6 @@
 
 ---
 
-### 📍 Focus
-
-- **5G Open Source**
-- **MAC Layer** Protocol
-- **PHY Layer** Protocol
-
----
-
 ### 🛠️ Tech Stack
 
 #### 📡 Wireless & Protocol
