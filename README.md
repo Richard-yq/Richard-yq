@@ -36,10 +36,14 @@
 
 <div align="center">
 
+### 📡 5G Signal & Packet Flow Grid
+
+<p><i>📶 Real-time 5G PDU Data Packet Scanning across Subcarrier Grid</i></p>
+
 <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Grid" />
 
 <br/><br/>
 
-<img src="./dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+<img src="./dist/github-contribution-grid-snake-dark.svg" width="100%" alt="5G Packet Flow & Signal Carrier Grid" />
 
 </div>

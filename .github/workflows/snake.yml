@@ -17,13 +17,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate Snake SVG
+      - name: Generate 5G Packet Flow SVG
         uses: platane/snk/svg-only@v3
         with:
           github_user_name: Richard-yq
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#8B5A2B&color_dots=#EBEDF0,#FFE4B5,#D2691E,#8B4513,#5C4033
+            dist/github-contribution-grid-snake.svg?color_snake=#0070F3&color_dots=#EBEDF0,#B3E5FC,#4FC3F7,#0288D1,#01579B
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00F0FF&color_dots=#161B22,#093845,#0080B3,#00B4D8,#FF007F
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
