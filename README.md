@@ -1,32 +1,53 @@
 <div align="center">
 
-<!-- 頂部霓虹波浪 Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7928CA,100:FF007F&height=200&section=header&text=RICHARD-YQ&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+# Hi, I'm Richard (`Richard-yq`) 👋
 
-<!-- 動態打字標題 -->
+<!-- 極簡打字動畫 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+5G+Open+Source+Developer;%F0%9F%93%A1+MAC+Layer+Protocol+Architect;%F0%9F%94%AC+PHY+Layer+Signal+%26+Interface+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=5G+Open+Source;MAC+Layer+%26+PHY+Layer" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Richard-yq?style=for-the-badge&logo=github&color=7928CA&labelColor=111111" />
-  <img src="https://img.shields.io/github/stars/Richard-yq?style=for-the-badge&logo=github&color=00F0FF&labelColor=111111" />
+  <img src="https://img.shields.io/github/followers/Richard-yq?style=flat-square&logo=github&color=333333" />
+  <img src="https://img.shields.io/github/stars/Richard-yq?style=flat-square&logo=github&color=333333" />
 </p>
 
 </div>
 
-<!-- 炫酷微光分隔線 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-### 🛰️ SYSTEM OVERVIEW // RICHARD-YQ
+### 📍 Focus
 
-```golang
-func GetDeveloperProfile() Profile {
-    return Profile{
-        Name:        "Richard",
-        Role:        "5G Open Source Developer",
-        Specialty:   []string{"MAC Layer Protocol", "PHY Layer Protocol"},
-        FocusAreas:  []string{"3GPP NR", "Scheduler (L2)", "L1/L2 Interface", "Radio Access Network"},
-        Status:      "Building Next-Gen Wireless Systems 🚀",
-    }
-}
+- **5G Open Source**
+- **MAC Layer** Protocol
+- **PHY Layer** Protocol
+
+---
+
+### 🛠️ Tech Stack
+
+#### Wireless & Protocol
+![5G NR](https://img.shields.io/badge/5G_NR-00599C?style=flat-square&logo=5g&logoColor=white)
+![MAC Layer](https://img.shields.io/badge/MAC_Layer-00A8E8?style=flat-square&logo=transmission-tower&logoColor=white)
+![PHY Layer](https://img.shields.io/badge/PHY_Layer-0077B6?style=flat-square&logo=antenna&logoColor=white)
+![3GPP](https://img.shields.io/badge/3GPP-023E8A?style=for-the-badge&logo=cellular&logoColor=white)
+
+#### Languages & Systems
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+---
+
+### 📊 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Richard-yq&theme=github-compact&hide_border=true" width="100%" />
+
+</div>
