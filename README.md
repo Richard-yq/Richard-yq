@@ -39,10 +39,16 @@
 
 ---
 
-### 🐍 🥔 Activity (Snake Eating Potatoes)
+### 🥔 Activity & Achievements
 
 <div align="center">
 
+<!-- 遊戲成就解鎖勳章 -->
+<img src="https://github-profile-trophy.vercel.app/?username=Richard-yq&theme=flat&no-frame=true&no-bg=true&column=6" width="100%" />
+
+<br/>
+
+<!-- 蛇吃馬鈴薯 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/github-contribution-grid-snake.svg">
