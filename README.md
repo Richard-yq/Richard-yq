@@ -48,23 +48,28 @@
 
 ---
 
-## 🧱 3D 磚塊城市 & 👷‍♂️ 工程師敲磚頭 Contribution 特效
+## 🧱 👷‍♂️ 🔨 1,012 Contributions in the Last Year (Streak 特效)
 
 <div align="center">
 
-### 🏢 3D Contribution Grid (立體磚塊城市)
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Grid" />
+<!-- 工程師快速拿槌子敲擊 1,012 Contributions Streak 卡片 -->
+<p align="center">
+  <img src="./assets/engineer-hammering.gif" width="160" alt="Engineer Hammering Contributions" />
+</p>
+
+<!-- 1,012 Contributions Streak 卡片 (顯示年度 Contributions 與 Streak 戰績) -->
+<img src="https://streak-stats.demolab.com?user=Richard-yq&theme=tokyonight&hide_border=true&border_radius=10" width="85%" alt="Contribution Streak" />
 
 <br/><br/>
 
-### 👷‍♂️ 🔨 Code Building in Progress (工程師敲磚頭)
-<p align="center">
-  <img src="./assets/engineer-hammering.gif" width="160" alt="Engineer Hammering Bricks" />
-</p>
-
 <blockquote>
-  <b>🔨 "Code is built one brick at a time — 一磚一瓦敲出高穩定度的 5G 通訊系統！"</b>
+  <b>🔨 "Code is built one brick at a time — 快速敲打一磚一瓦，累積 1,012+ Contributions 穩定系統！"</b>
 </blockquote>
+
+<br/>
+
+### 🏢 3D Contribution Grid (立體磚塊城市)
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Grid" />
 
 </div>
 
