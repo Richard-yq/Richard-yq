@@ -45,21 +45,11 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
 <div align="center">
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Richard-yq&show_icons=true&theme=tokyonight&hide_border=true" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-yq&layout=compact&theme=tokyonight&hide_border=true" width="400"/> |
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- 連續 Commit 紀錄卡片 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Richard-yq&theme=tokyonight&hide_border=true" width="820"/>
+<!-- 穩定酷炫的動態貢獻圖 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Richard-yq&theme=tokyonight&hide_border=true" width="100%" />
 
 </div>
