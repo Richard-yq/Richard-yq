@@ -36,18 +36,14 @@
 
 <div align="center">
 
-### 📡 5G Signal & Packet Flow Grid
+### 👾 Space Invaders Commit Shooter
 
-<p><i>📶 Real-time 5G PDU Data Packet Scanning across Subcarrier Grid</i></p>
+<p><i>👾 Cannon blasting commit grid targets in arcade style</i></p>
 
 <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Grid" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/github-contribution-grid-snake.svg">
-  <img alt="5G Packet Flow & Signal Carrier Grid" src="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/space-shooter.gif" width="100%" alt="Space Invaders Contribution Shooter" />
 
 </div>
