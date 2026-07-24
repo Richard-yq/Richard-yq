@@ -42,6 +42,6 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/space-shooter.gif" width="100%" alt="Space Invaders Contribution Shooter" />
+<img src="./assets/space-shooter.gif" width="100%" alt="Space Invaders Contribution Shooter" />
 
 </div>

@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 2
 
@@ -24,13 +24,5 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: Richard-yq
-          output-path: 'dist/space-shooter.gif'
+          output-path: 'assets/space-shooter.gif'
           strategy: 'random'
-
-      - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
