@@ -44,16 +44,12 @@
 
 ---
 
-## 🧱 3D 磚塊城市 & 🐍 貪食蛇 Contribution 特效
-
 <div align="center">
 
-### 🏢 3D Contribution Grid (立體磚塊城市)
 <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Grid" />
 
 <br/><br/>
 
-### 🐍 Snake 吃綠磚動態圖
 <img src="./dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 
 </div>
