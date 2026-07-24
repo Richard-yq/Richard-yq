@@ -7,16 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=5G+Open+Source;MAC+Layer+%26+PHY+Layer" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <a href="https://github.com/Richard-yq">
-    <img src="https://img.shields.io/github/followers/Richard-yq?style=for-the-badge&logo=github&color=00F0FF&labelColor=0d1117" />
-  </a>
-  <a href="https://github.com/Richard-yq">
-    <img src="https://img.shields.io/github/stars/Richard-yq?style=for-the-badge&logo=github&color=7928CA&labelColor=0d1117" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Richard-yq&color=FF007F&style=for-the-badge&label=VIEWS&labelColor=0d1117" />
-</p>
-
 </div>
 
 ---
