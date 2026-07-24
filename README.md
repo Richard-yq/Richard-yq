@@ -48,28 +48,17 @@
 
 ---
 
-## 🧱 🍄 1,012 Contributions in the Last Year (馬力歐敲磚頭特效)
+## 🧱 3D 磚塊城市 & 🐍 貪食蛇 Contribution 特效
 
 <div align="center">
 
-<!-- 像素 Super Mario 跳起來頂問號磚塊動圖 (儲存於本機 assets 載入極速) -->
-<p align="center">
-  <img src="./assets/mario-hit-block.gif" width="120" alt="Super Mario Hitting Brick Block" />
-</p>
-
-<!-- 1,012 Contributions Streak 卡片 -->
-<img src="https://streak-stats.demolab.com?user=Richard-yq&theme=tokyonight&hide_border=true&border_radius=10" width="85%" alt="Contribution Streak" />
+### 🏢 3D Contribution Grid (立體磚塊城市)
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Grid" />
 
 <br/><br/>
 
-<blockquote>
-  <b>🍄 "Leveling up code brick by brick — 頂出 1,012+ Contributions，打造穩定 5G 系統！"</b>
-</blockquote>
-
-<br/>
-
-### 🏢 3D Contribution Grid (立體磚塊城市)
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Grid" />
+### 🐍 Snake 吃綠磚動態圖
+<img src="./dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 
 </div>
 
