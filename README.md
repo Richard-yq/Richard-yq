@@ -52,19 +52,14 @@
 
 <div align="center">
 
-<!-- 動態像素工程師敲磚頭動圖特效 -->
+<!-- 本地託管像素工程師敲磚頭動圖 (儲存在專案內部，載入極速不卡頓) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="140" alt="Engineer Hammering Bricks" />
+  <img src="./assets/engineer-hammering.gif" width="160" alt="Engineer Hammering Bricks" />
 </p>
 
 <blockquote>
   <b>🔨 "Code is built one brick at a time — 一磚一瓦敲出高穩定度的 5G 通訊系統！"</b>
 </blockquote>
-
-<br/>
-
-<!-- 連續 Commit 紀錄卡片 (暗色炫彩風格) -->
-<img src="https://streak-stats.demolab.com?user=Richard-yq&theme=tokyonight&hide_border=true&border_radius=10" width="85%" alt="Streak Stats" />
 
 </div>
 
@@ -81,17 +76,6 @@
 
 ### 🐍 Snake 吃綠磚動態圖
 <img src="./dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics (數據統計)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Richard-yq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-yq&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
