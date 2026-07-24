@@ -39,20 +39,16 @@
 
 ---
 
-### 🏙️ 🐍 Activity (3D Grid & Snake Animation)
+### 👷‍♂️ 🛠️ Code Building in Progress...
 
 <div align="center">
 
-<!-- 3D 城市立體網格 -->
-<img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Richard's 3D Contribution Grid" />
+<!-- 動態像素工人敲錘子動畫 -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="130" />
 
 <br/><br/>
 
-<!-- 經典正常綠色貪食蛇 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Richard-yq/Richard-yq/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- 3D 城市立體網格 -->
+<img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Richard's 3D Contribution Grid" />
 
 </div>
