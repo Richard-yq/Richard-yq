@@ -48,7 +48,7 @@
 
 <br/><br/>
 
-<!-- 3D 城市立體網格 -->
-<img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Richard's 3D Contribution Grid" />
+<!-- 連續 Commit 紀錄卡片 -->
+<img src="https://streak-stats.demolab.com?user=Richard-yq&theme=dark&hide_border=true" width="100%" />
 
 </div>
